@@ -1,0 +1,27 @@
+ /* * {
+    background-image: url('https://www.hongkong.campusfrance.org/sites/pays/files/hongkong/styles/mobile_visuel_principal_page/public/Fotolia_171500112_Subscription_Monthly_M.jpg?itok=d3aVCEpr');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#my_h1 {
+    background-image: url('https://i.gifer.com/GIWH.gif');
+    height: 10vh;
+}
+
+#cityNameSelect {
+    background-color: rgb(225, 255, 0);
+    display: flex;
+    justify-content: center;
+    width: 20vw;
+    height: 5vh;
+    border-bottom-right-radius: 60%;
+
+}
+
+#selectBtn {
+    background-color: rgb(147, 255, 80);
+    border-top-left-radius: 100%;
+    width: 20vw;
+    height: 10vh;
+}  */
